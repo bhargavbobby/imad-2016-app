@@ -19,4 +19,26 @@ body {
 .img-medium {
     height: 200px;
 }
-
+body {
+    background-color: wheat;
+}
+h1 {
+     background-color:whitesmoke ;
+    font-family: verdana;
+    font-size: 20px;
+}
+p {
+    font-family: times new roman;
+    font-size: 20px;
+}
+a:link, a:visited {
+    background-color:green;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: red;
+}
