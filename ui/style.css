@@ -1,6 +1,13 @@
 body {
     background-image: url("http://www.webdesignburn.com/wp-content/uploads/2015/04/Grey-Texture-Background-and-Wallpaper-16.jpg");
 }
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: navy;
+    clear: left;
+    text-align: center;
+}
 h1 {
      
     font-family: verdana;
